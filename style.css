@@ -1,0 +1,46 @@
+h1{
+    color: brown;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.parrafo1{
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    color: brown;
+    font-size: 26px;
+    font-family: 'Courier New', Courier, monospace;
+}
+h3{
+    font-size: 19px;
+}
+h4{
+    font-size: 19px;
+}
+h5{
+    color: brown;
+    font-size: 26px;
+    font-family: 'Courier New', Courier, monospace; 
+}
+video{
+    float: right;
+}
+h6{
+    color: brown;
+    font-size: 26px;
+    font-family: 'Courier New', Courier, monospace;  
+}
+th{
+    font-size: 24px
+}
+td{
+    font-size: 16px
+}
+table style{
+    border: 1px; 
+}
+.img4{
+    float: right;
+}
+
