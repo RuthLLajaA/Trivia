@@ -6,4 +6,4 @@ Este proyecto de trivia es un juego de preguntas sobre cultura general, de temas
 * Css
 * JavaScript
 ## Enlace replit
-[Trivia de cultura general📌](https://Culture-fest.camila-nadinena.repl.co)
+[Trivia de cultura general📌](https://codigo-sos.camila-nadinena.repl.co/)
